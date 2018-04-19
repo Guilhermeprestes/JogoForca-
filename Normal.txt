@@ -1,0 +1,15 @@
+agulha#Objeto para costura.
+biblia#Livro Sagrado.
+boneca#Brinquedo.
+cabide#Guarda-roupas.
+caneta#Material Escolar.
+cajado#Moises.
+buzina#Carro.
+diario#Palavras.
+espeto#Churrasco.
+enxada#Trabalho.
+flauta#Instrumento Musical.
+helice#Ventilador.
+perola#Colar.
+sirene#Polícia.
+tanque#Guerra.

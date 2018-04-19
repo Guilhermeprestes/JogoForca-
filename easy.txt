@@ -1,0 +1,15 @@
+beca#Roupa utilizada na formatura.
+bota#Calçado.
+cama#Local para dormir.
+faca#Utensílio de cozinha.
+elmo#Parte da armadura de um guerreiro.
+mesa#Utilizada para colocar objetos.
+pneu#Os sapatos do seu carro.
+sino#Torre de Igreja.
+vaso#Local para por flores.
+vela#Parafina.
+sofa#Acento.
+pipa#Do vovo não sobe mais.
+ioiô#Brinquedo.
+cuia#Chimarrão.
+cola#Sapateiro.

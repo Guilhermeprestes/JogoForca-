@@ -1,0 +1,15 @@
+disquete#Local para guardar dados.
+gangorra#Brinquedo de parquinho.
+guitarra#Instrumento Musical.
+manequim#Se encontra em toda loja de roupas.
+molinete#Utilizado por pescadores.
+pandeiro#Toda rodinha de pagode tem.
+sabonete#Utilizado para tomar banho "Por alguns kk".
+uniforme#Roupa utilizada em empresas e escolas.
+semaforo#Utilizados para sinalização de transito.
+macaneta#Tem em todas as portas.
+parafina#Utilizado na fabricação de velas.
+farolete#Objeto utilizado para Iluminação.
+esquadro#Ferramenta utilizada por mestres de obra.
+diamante#Joia preciosa.
+cobertor#Roupa de cama.
